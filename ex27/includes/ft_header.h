@@ -15,8 +15,6 @@
 
 # include <unistd.h>
 # include <fcntl.h>
-# include <sys/types.h>
-# include <sys/stat.h>
 
 void	ft_putchar(char c);
 void	ft_putstr(char *str);
